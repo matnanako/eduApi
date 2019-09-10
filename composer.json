@@ -1,10 +1,10 @@
 {
-    "name": "xy/superview",
+    "name": "xueyuan/superview",
     "type": "library",
     "description": "A simple content helper.",
     "keywords": [
-        "xzwh",
-        "apiservice"
+        "xueyuan",
+        "api"
     ],
     "license": "MIT",
     "require": {
