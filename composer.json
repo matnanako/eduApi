@@ -1,9 +1,8 @@
 {
-    "name": "xz/apiservice",
+    "name": "xy/superview",
     "type": "library",
     "description": "A simple content helper.",
     "keywords": [
-        "xz",
         "xzwh",
         "apiservice"
     ],
